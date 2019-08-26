@@ -1,7 +1,7 @@
 # Gmail #
 
 # Getting Started #
-## 2 git clone ##
+## git clone ##
 
 # A linux operating system. Recommend #
 - Kali Linux 
