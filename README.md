@@ -1,7 +1,7 @@
 # Gmail #
 
 # Getting Started #
-## git clone https://github.com/MilleCJ/Gmail.git ##
+## git clone https://github.com/Dark-Balck-Hat/Gmail.git ##
 
 # A linux operating system. Recommend #
 - Kali Linux 
