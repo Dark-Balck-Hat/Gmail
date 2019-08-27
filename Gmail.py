@@ -1,12 +1,12 @@
 #!/usr/bin/python
-'''create by MilleCJ'''
+'''create by Dark-Balck-Hat'''
 
 import smtplib
 from os import system
 
 def main():
    print '================================================='
-   print '               create by MilleCJ                 '
+   print '            create by Dark-Balck-Hat                 '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
